@@ -1,0 +1,32 @@
+2025-08-04 15:13:39,622 pid/11216 [main.py:56] WhatsApp endpoint triggered...
+2025-08-04 15:13:39,649 pid/11216 [main.py:57] Request: <starlette.requests.Request object at 0x00000241D55EF460>
+2025-08-04 15:13:39,651 pid/11216 [main.py:58] Body: Hi There
+2025-08-04 15:13:39,651 pid/11216 [main.py:59] From: whatsapp:+7426873863
+2025-08-04 15:20:39,769 pid/26996 [main.py:56] WhatsApp endpoint triggered...
+2025-08-04 15:20:39,771 pid/26996 [main.py:57] Request: <starlette.requests.Request object at 0x000002106B5FB4D0>
+2025-08-04 15:20:39,771 pid/26996 [main.py:58] Body: Hi There
+2025-08-04 15:20:39,773 pid/26996 [main.py:59] From: whatsapp:+7426873863
+2025-08-04 16:29:35,086 pid/26264 [main.py:56] WhatsApp endpoint triggered...
+2025-08-04 16:29:35,089 pid/26264 [main.py:57] Request: <starlette.requests.Request object at 0x000001AD740AB4D0>
+2025-08-04 16:29:35,089 pid/26264 [main.py:58] Body: Hi There
+2025-08-04 16:29:35,090 pid/26264 [main.py:59] From: whatsapp:+7426873863
+2025-08-04 17:39:19,509 pid/28508 [main.py:56] WhatsApp endpoint triggered...
+2025-08-04 17:39:19,511 pid/28508 [main.py:57] Request: <starlette.requests.Request object at 0x00000257F905B4D0>
+2025-08-04 17:39:19,512 pid/28508 [main.py:58] Body: Hi There
+2025-08-04 17:39:19,512 pid/28508 [main.py:59] From: whatsapp:+7426873863
+2025-08-04 17:41:04,798 pid/28508 [main.py:56] WhatsApp endpoint triggered...
+2025-08-04 17:41:04,799 pid/28508 [main.py:57] Request: <starlette.requests.Request object at 0x00000257FBEDCF50>
+2025-08-04 17:41:04,800 pid/28508 [main.py:58] Body: Hi There
+2025-08-04 17:41:04,801 pid/28508 [main.py:59] From: whatsapp:14155238886
+2025-08-04 17:41:39,324 pid/28508 [main.py:56] WhatsApp endpoint triggered...
+2025-08-04 17:41:39,325 pid/28508 [main.py:57] Request: <starlette.requests.Request object at 0x00000257FBED6C40>
+2025-08-04 17:41:39,326 pid/28508 [main.py:58] Body: Hi There
+2025-08-04 17:41:39,327 pid/28508 [main.py:59] From: whatsapp:+917426873863
+2025-08-04 17:42:55,420 pid/14588 [main.py:56] WhatsApp endpoint triggered...
+2025-08-04 17:42:55,421 pid/14588 [main.py:57] Request: <starlette.requests.Request object at 0x00000254417EF4D0>
+2025-08-04 17:42:55,422 pid/14588 [main.py:58] Body: Hi There
+2025-08-04 17:42:55,423 pid/14588 [main.py:59] From: whatsapp:+917426873863
+2025-08-04 18:42:46,094 pid/21708 [main.py:57] WhatsApp endpoint triggered...
+2025-08-04 18:42:46,096 pid/21708 [main.py:58] Request: <starlette.requests.Request object at 0x0000023D404FB4D0>
+2025-08-04 18:42:46,096 pid/21708 [main.py:59] Body: Hi There
+2025-08-04 18:42:46,096 pid/21708 [main.py:60] From: whatsapp:+917426873863
