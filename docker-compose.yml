@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+  chatbot:
+    build:
+      context: .
+    env_file:
+      - .env
+    restart: always
+    ports:
+      - 3002:3002
+    volumes:
+      - ./logs:/app/logs
